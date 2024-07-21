@@ -1,2 +1,1 @@
-# Robotics-project
- 2nd year robotics final project
+ROBOTICS PROJECT WHICH SOFTWARE ENGINEER DEGREE 2nd YEAR ROBOTICS SUBJECT PROJECT
